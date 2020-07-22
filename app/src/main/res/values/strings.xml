@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">final-project</string>
+
+    <string-array name="categories_array">
+        <item>Mental Health</item>
+        <item>Fitness</item>
+        <item>Diet</item>
+        <item>Sleep</item>
+        <item>Social</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="priority_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+</resources>
